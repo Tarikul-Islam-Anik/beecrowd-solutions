@@ -1,9 +1,12 @@
 ### User Info
 
 - **Username:** `OXYZEN`
+- **Language:** `Python`
 - **Since:** `2/15/22`
 - **Country:** `BD`
 - **University:** `BRACU`
+
+[View Profile](https://www.beecrowd.com.br/judge/en/profile/624902) &bull; [Portfolio](https://www.oxyzen.me)
 
 ### What is Beecrowd?
 
@@ -16,3 +19,5 @@ Actually, I've no unfair intention of sharing the solutions. Sometimes, people a
 ### Can you share your solutions or optimize them?
 
 Yes, you can! Just fork the repository and submit your work.
+
+> **Note:** The solutions are not necessarily the best ones.
