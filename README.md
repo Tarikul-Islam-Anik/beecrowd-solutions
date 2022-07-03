@@ -1,7 +1,7 @@
 ### User Info
 
 - **Username:** `OXYZEN`
-- **Language:** `Python`
+- **Language:** `C/C++, Python, Dart`
 - **Since:** `2/15/22`
 - **Country:** `BD`
 - **University:** `BRACU`
