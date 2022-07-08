@@ -15,7 +15,7 @@ for i in range(11):
     for j in range(0, idx):
         s += matrix[i][j]
         count += 1
-    idx -=1
+    idx -= 1
 
 if task == "S":
     print(s)
