@@ -30,6 +30,7 @@ Beecrowd, was known as URI Online Judge, is a platform that offers online progra
 &nbsp; [<img align="center" alt="OCaml" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg">](https://github.com/Tarikul-Islam-Anik/beecrowd-solutions/tree/master/OCaml)
 &nbsp; [<img align="center" alt="scala" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">](https://github.com/Tarikul-Islam-Anik/beecrowd-solutions/tree/master/OCaml)
 &nbsp; [<img align="center" alt="rust" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">](https://github.com/Tarikul-Islam-Anik/beecrowd-solutions/tree/master/rust)
+&nbsp; [<img align="center" alt="rust" height="50" width="50" src="https://api.github.com/repos/devicons/devicon/contents/icons/elixir.svg">](https://github.com/Tarikul-Islam-Anik/beecrowd-solutions/tree/master/elixir)
 
 ### Why I'm sharing the solutions?
 
