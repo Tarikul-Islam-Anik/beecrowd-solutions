@@ -4,7 +4,7 @@ while True:
     a = 0
     q = int(input())
     if q == 0:
-     break
+        break
     elif q == 1:
         print(q)
     else:
@@ -19,6 +19,7 @@ while True:
         t = len(str(m[i][l]))
         for x in m:
             for elem in range(q):
-                print('{:{}}' .format(x[elem], t), end=' ') if elem < q-1 else print(
-                    '{:{}}' .format(x[elem], t))
+                print("{:{}}".format(x[elem], t), end=" ") if elem < q - 1 else print(
+                    "{:{}}".format(x[elem], t)
+                )
     print()
