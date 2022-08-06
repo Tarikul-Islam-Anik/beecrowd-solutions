@@ -9,4 +9,11 @@ if m2 < m1:
 else:
     minute_difference = m2 - m1
 
-print("O JOGO DUROU ", hour_difference, " HORA(S) E ", minute_difference, " MINUTO(S)", end="\n")
+print(
+    "O JOGO DUROU ",
+    hour_difference,
+    " HORA(S) E ",
+    minute_difference,
+    " MINUTO(S)",
+    end="\n",
+)
